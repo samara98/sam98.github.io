@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b20848ef.chunk.css",
+    "main.js": "/static/js/main.095e6b96.chunk.js",
+    "runtime-main.js": "/static/js/runtime-main.c1c9272b.js",
+    "static/js/2.26c3eafb.chunk.js": "/static/js/2.26c3eafb.chunk.js",
+    "index.html": "/index.html",
+    "precache-manifest.b79a82ccadf861e9e8f06c62c4e759bd.js": "/precache-manifest.b79a82ccadf861e9e8f06c62c4e759bd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/js/2.26c3eafb.chunk.js.LICENSE.txt": "/static/js/2.26c3eafb.chunk.js.LICENSE.txt",
+    "static/media/1-mac.png": "/static/media/1-mac.2459ab38.png",
+    "static/media/2-mac.png": "/static/media/2-mac.5a4f91ae.png",
+    "static/media/3-mac.png": "/static/media/3-mac.b0dc871e.png",
+    "static/media/4-mac.png": "/static/media/4-mac.e1a2567b.png",
+    "static/media/SAM_logo_Icon_white.svg": "/static/media/SAM_logo_Icon_white.89ef9ad0.svg",
+    "static/media/SAM_logo_text.svg": "/static/media/SAM_logo_text.5f6e1a4e.svg",
+    "static/media/arrow_orange.svg": "/static/media/arrow_orange.272d46e4.svg",
+    "static/media/cactus.png": "/static/media/cactus.b664997b.png",
+    "static/media/connected-line.svg": "/static/media/connected-line.e4998397.svg",
+    "static/media/image-resposive.png": "/static/media/image-resposive.19a06ff8.png",
+    "static/media/iphone.png": "/static/media/iphone.8633ce90.png",
+    "static/media/moleskine.png": "/static/media/moleskine.bfa20bd5.png",
+    "static/media/papers.png": "/static/media/papers.da41afa0.png",
+    "static/media/pens.png": "/static/media/pens.d00f35b0.png",
+    "static/media/phones.png": "/static/media/phones.d32346e6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c1c9272b.js",
+    "static/js/2.26c3eafb.chunk.js",
+    "static/css/main.b20848ef.chunk.css",
+    "static/js/main.095e6b96.chunk.js"
+  ]
+}

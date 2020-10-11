@@ -1,0 +1,139 @@
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: 200;
+  src: url('fonts/Soleil/Soleil\ Light\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: 200;
+  src: url('fonts/Soleil/Soleil\ Light\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: lighter;
+  src: url('fonts/Soleil/Soleil\ Light\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: lighter;
+  src: url('fonts/Soleil/Soleil\ Light\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: 300;
+  src: url('fonts/Soleil/Soleil\ Book\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: 300;
+  src: url('fonts/Soleil/Soleil\ Book\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: 400;
+  src: url('fonts/Soleil/Soleil\ Regular\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: 400;
+  src: url('fonts/Soleil/Soleil\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: normal;
+  src: url('fonts/Soleil/Soleil\ Regular\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: normal;
+  src: url('fonts/Soleil/Soleil\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: 600;
+  src: url('fonts/Soleil/Soleil\ SemiBold\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: 600;
+  src: url('fonts/Soleil/Soleil\ SemiBold\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: 700;
+  src: url('fonts/Soleil/Soleil\ Bold\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: 700;
+  src: url('fonts/Soleil/Soleil\ Bold\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: bold;
+  src: url('fonts/Soleil/Soleil\ Bold\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: bold;
+  src: url('fonts/Soleil/Soleil\ Bold\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: 800;
+  src: url('fonts/Soleil/Soleil\ ExtraBold\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: 800;
+  src: url('fonts/Soleil/Soleil\ ExtraBold\ Italic\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: normal;
+  font-weight: bolder;
+  src: url('fonts/Soleil/Soleil\ ExtraBold\ .otf');
+}
+
+@font-face {
+  font-family: Soleil;
+  font-style: italic;
+  font-weight: bolder;
+  src: url('fonts/Soleil/Soleil\ ExtraBold\ Italic\ .otf');
+}
